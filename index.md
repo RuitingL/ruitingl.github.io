@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Ruiting Liang
+# RL
 Ph.D. candidate, [Department], [University]  
 Advised by Prof. [Name]  
 [Email](mailto:you@university.edu) · [Google Scholar](#) · [CV (PDF)](#)
