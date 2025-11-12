@@ -27,7 +27,7 @@ title: Home
 
 
 
-# Publications
+# Papers
 - **Assumption-free stability for ranking problems** <br>
   Ruiting Liang, Jake A. Soloff, Rina Foygel Barber, and Rebecca Willett. [arXiv:2506.02257](https://arxiv.org/abs/2506.02257)
 
