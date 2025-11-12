@@ -7,7 +7,6 @@ test
 
 <div class="bio-section">
   <div class="bio-text">
-    <h2>About Me</h2>
     <p>
       Hi, I’m Your Name — PhD candidate.
     </p>
