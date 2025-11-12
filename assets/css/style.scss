@@ -1,0 +1,35 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* --- Your custom styles --- */
+.bio-section {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  /* optional: add a subtle divider or spacing */
+  margin: 1.5rem 0;
+}
+.bio-text {
+  flex: 1 1 auto;
+}
+.bio-photo {
+  flex: 0 0 auto;
+}
+.bio-photo img {
+  max-width: 220px;     /* adjust to taste */
+  height: auto;
+  /* border-radius: 50%;   /* makes a circle; remove if you want a square */
+  display: block;
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 640px) {
+  .bio-section {
+    flex-direction: column;
+    text-align: center;
+  }
+  .bio-photo {
+    margin-top: 0.75rem;
+  }
+}
