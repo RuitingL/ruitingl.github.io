@@ -5,6 +5,8 @@ plugins:
   - jekyll-remote-theme
 url: "https://ruitingl.github.io"
 baseurl: ""
+permalink: pretty
+
 # Optional:
 show_downloads: false           # true shows a download link if the theme supports it
 google_analytics:               # (leave blank if you don't use GA)
