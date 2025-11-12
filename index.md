@@ -8,7 +8,7 @@ test
 <div class="bio-section">
   <div class="bio-text">
     <p>
-      Hi, I’m Your Name — PhD candidate.
+      Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate.
     </p>
   </div>
   <div class="bio-photo">
