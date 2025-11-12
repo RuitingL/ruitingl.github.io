@@ -6,7 +6,7 @@
 .bio-section {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.2rem;
   /* optional: add a subtle divider or spacing */
   margin: 1.5rem 0;
 }
@@ -32,4 +32,9 @@
   .bio-photo {
     margin-top: 0.75rem;
   }
+}
+
+/* --- Custom heading sizes --- */
+h1 {
+  font-size: 2rem;    /* default ≈ 2.25rem */
 }
