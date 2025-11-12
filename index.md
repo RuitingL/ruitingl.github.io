@@ -14,6 +14,9 @@ title: Home
     <p>
       I also collaborate with astrophysicists on hypothesis testing problems arising in astronomical data analysis, with support from the <a href="https://skai-institute.org" target="_blank">NSF–Simons AI Institute for the Sky (SkAI institute)</a>.
     </p>
+    <p>
+      <a href="mailto:rtliang@uchicago.edu" target="_blank">Email</a> · <a href="https://www.linkedin.com/in/ruiting-liang-253729319" target="_blank">LinkedIn</a> · <a href="https://github.com/RuitingL" target="_blank">GitHub</a>
+    </p>
   </div>
   <div class="bio-photo">
     <img src="{{ "/assets/images/webpg_photo.JPG" | relative_url }}" alt="Photo of sth">
@@ -21,7 +24,7 @@ title: Home
 </div>
 
 
-[Email](mailto:rtliang@uchicago.edu) · [LinkedIn](https://www.linkedin.com/in/ruiting-liang-253729319) · [GitHub](https://github.com/RuitingL)
+
 
 
 # Publications
