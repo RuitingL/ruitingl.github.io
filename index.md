@@ -35,14 +35,13 @@ title: Home
   Ruiting Liang and Rina Foygel Barber. _Annals of Statistics 53(4):1457-1482_. [arXiv:2311.04295](https://arxiv.org/abs/2311.04295)
 
 # Teaching
-As a Teaching Assistant at the University of Chicago
+As a Teaching Assistant at the University of Chicago:
 - STAT/CAAM 30900 Mathematical Computation I: Matrix Computation Course, Autumn 2022
 - STAT/CAAM 31210 Applied Functional Analysis, Winter 2023-2025
 - STAT/CAAM 31220 Partial Differential Equations, Spring 2023-2024
 - STAT/CAAM 31430 Applied Linear Algebra, Autumn 2023
 
-  (My teaching has )
+_My teaching has been recognized with a 2023 CAM Outstanding TA Award._
 
-# News
-- 2025-10: Paper accepted at X.
-- [Link to another page here](./another-page.html).
+# Miscellaneous
+Beyond research, a few personal notes can be found [here](./another-page.html).
