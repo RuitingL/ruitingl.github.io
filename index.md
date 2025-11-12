@@ -44,4 +44,6 @@ As a Teaching Assistant at the University of Chicago:
 _My teaching has been recognized with a 2023 CAM Outstanding TA Award._
 
 # Miscellaneous
-Beyond research, a few personal notes can be found [here](./another-page.html).
+Beyond research, a few personal notes can be found [here]({{ "/misc/" | relative_url }}).
+
+
