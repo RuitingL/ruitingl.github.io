@@ -21,16 +21,24 @@ title: Home
 </div>
 
 
-[Email](mailto:you@university.edu) · [Google Scholar](#) · [CV (PDF)](#)
+[Email](mailto:rtliang@uchicago.edu) · [LinkedIn](https://www.linkedin.com/in/ruiting-liang-253729319) · [GitHub](#)
 
-# Research
-One-sentence summary of your focus. Bullets for current themes.
 
 # Publications
-- **Paper Title** (Venue, Year). With A, B. [pdf] [code]
+- **Assumption-free stability for ranking problems**
+  (Venue, Year). With A, B. [pdf] [code]
 
-# Teaching / Service
+- **Conformal prediction after data-dependent model selection**
+
+- **Algorithmic stability implies training-conditional coverage for distribution-free prediction methods**
+  Ruiting Liang and Rina Foygel Barber. Annals of Statistics 53(4):1457-1482. [arXiv:2311.04295](https://arxiv.org/abs/2311.04295)
+
+# Teaching
 - Brief bullets.
+- Course 2
+
+  (My teaching has )
 
 # News
 - 2025-10: Paper accepted at X.
+- [Link to another page here](./another-page.html).
