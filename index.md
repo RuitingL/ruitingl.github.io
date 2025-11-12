@@ -16,7 +16,7 @@ title: Home
     </p>
   </div>
   <div class="bio-photo">
-    <img src="{{ "/assets/images/xxi.png" | relative_url }}" alt="Photo of sth">
+    <img src="{{ "/assets/images/webpg_photo.JPG" | relative_url }}" alt="Photo of sth">
   </div>
 </div>
 
