@@ -3,12 +3,16 @@ layout: default
 title: Home
 ---
 
-test
-
 <div class="bio-section">
   <div class="bio-text">
     <p>
-      Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate. Hi, I’m Your Name — PhD candidate.
+      Hi! I am a fifth year PhD student in [Computational and Applied Mathematics](https://cam.uchicago.edu) at the University of Chicago, where I am very fortunate to be advised by Professor [Rina Foygel Barber](https://rinafb.github.io). Prior to this, I received my B.S. in Mathematics from the University of Chinese Academy of Sciences.
+  </p>
+    <p>
+      I work on the theory of statistical problems in machine learning, with the goal of understanding uncertainty in general settings with as few assumptions as possible. My research topics include distribution-free inference, algorithmic stability, and uncertainty quantification.
+    </p>
+    <p>
+      I also collaborate with astrophysicists on hypothesis testing problems arising in astronomical data analysis, with support from the [NSF–Simons AI Institute for the Sky (SkAI institute)](https://skai-institute.org).
     </p>
   </div>
   <div class="bio-photo">
@@ -17,8 +21,6 @@ test
 </div>
 
 
-Ph.D. candidate, [Department], [University]  
-Advised by Prof. [Name]  
 [Email](mailto:you@university.edu) · [Google Scholar](#) · [CV (PDF)](#)
 
 # Research
