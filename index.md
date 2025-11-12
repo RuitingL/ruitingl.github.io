@@ -25,16 +25,13 @@ title: Home
 
 
 # Publications
-- **Assumption-free stability for ranking problems**
-  
+- **Assumption-free stability for ranking problems** <br>
   Ruiting Liang, Jake A. Soloff, Rina Foygel Barber, and Rebecca Willett. [arXiv:2506.02257](https://arxiv.org/abs/2506.02257)
 
-- **Conformal prediction after data-dependent model selection**
-
+- **Conformal prediction after data-dependent model selection** <br>
   Ruiting Liang, Wanrong Zhu, and Rina Foygel Barber. [arXiv:2408.07066](https://arxiv.org/abs/2408.07066)
 
-- **Algorithmic stability implies training-conditional coverage for distribution-free prediction methods**
-
+- **Algorithmic stability implies training-conditional coverage for distribution-free prediction methods** <br>
   Ruiting Liang and Rina Foygel Barber. Annals of Statistics 53(4):1457-1482. [arXiv:2311.04295](https://arxiv.org/abs/2311.04295)
 
 # Teaching
