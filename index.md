@@ -21,7 +21,7 @@ title: Home
 </div>
 
 
-[Email](mailto:rtliang@uchicago.edu) · [LinkedIn](https://www.linkedin.com/in/ruiting-liang-253729319) · [GitHub](#)
+[Email](mailto:rtliang@uchicago.edu) · [LinkedIn](https://www.linkedin.com/in/ruiting-liang-253729319) · [GitHub](https://github.com/RuitingL)
 
 
 # Publications
