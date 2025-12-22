@@ -28,6 +28,9 @@ title: Home
 
 
 # Papers
+- **False detection rate control in time series coincidence detection** <br>
+  Ruiting Liang, Samuel Dyson, Rina Foygel Barber, and Daniel E. Holz. [arXiv:2512.17372](https://arxiv.org/abs/2512.17372)
+
 - **Assumption-free stability for ranking problems** <br>
   Ruiting Liang, Jake A. Soloff, Rina Foygel Barber, and Rebecca Willett. [arXiv:2506.02257](https://arxiv.org/abs/2506.02257)
 
