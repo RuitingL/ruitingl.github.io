@@ -12,7 +12,7 @@ title: Home
       I work on the theory of statistical problems in machine learning, with the goal of understanding uncertainty in general settings with as few assumptions as possible. My research topics include distribution-free inference, algorithmic stability, and uncertainty quantification.
     </p>
     <p>
-      I also collaborate with astrophysicists on hypothesis testing problems arising in astronomical data analysis, with support from the <a href="https://skai-institute.org" target="_blank">NSF–Simons AI Institute for the Sky (SkAI institute)</a>.
+      I also collaborate with astrophysicists on hypothesis testing problems arising in astronomical data analysis, with the support from the <a href="https://skai-institute.org" target="_blank">NSF–Simons AI Institute for the Sky (SkAI institute)</a>.
     </p>
     <p>
       <a href="mailto:rtliang@uchicago.edu" target="_blank">Email</a> · <a href="https://www.linkedin.com/in/ruiting-liang-253729319" target="_blank">LinkedIn</a> · <a href="https://github.com/RuitingL" target="_blank">GitHub</a>
@@ -28,7 +28,7 @@ title: Home
 
 
 # Papers
-- **False detection rate control in time series coincidence detection** <br>
+- **False positive control in time series coincidence detection** <br>
   Ruiting Liang, Samuel Dyson, Rina Foygel Barber, and Daniel E. Holz. [arXiv:2512.17372](https://arxiv.org/abs/2512.17372)
 
 - **Assumption-free stability for ranking problems** <br>
