@@ -2,7 +2,6 @@ title: "Ruiting Liang"
 description: "personal webpage of RL"
 remote_theme: pages-themes/primer@v0.6.0
 
-google-site-verification: cOE6MwcMXML526uNSYx9ZXXNIl0liwXAZ5av5MtLqiA
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
