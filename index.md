@@ -35,7 +35,7 @@ title: Home
   Ruiting Liang, Jake A. Soloff, Rina Foygel Barber, and Rebecca Willett. [arXiv:2506.02257](https://arxiv.org/abs/2506.02257)
 
 - **Conformal prediction after data-dependent model selection** <br>
-  Ruiting Liang, Wanrong Zhu, and Rina Foygel Barber. [arXiv:2408.07066](https://arxiv.org/abs/2408.07066)
+  Ruiting Liang, Wanrong Zhu, and Rina Foygel Barber. _Journal of the American Statistical Association (to appear)_. [arXiv:2408.07066](https://arxiv.org/abs/2408.07066)
 
 - **Algorithmic stability implies training-conditional coverage for distribution-free prediction methods** <br>
   Ruiting Liang and Rina Foygel Barber. _Annals of Statistics 53(4):1457-1482_. [arXiv:2311.04295](https://arxiv.org/abs/2311.04295)
