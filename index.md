@@ -6,7 +6,7 @@ title: Home
 <div class="bio-section">
   <div class="bio-text">
     <p>
-      Hi! I am a postdoctoral researcher, co-advised by <a href="https://sites.google.com/view/morganeaustern/home" target="_blank">Morgane Austern</a> at <a href="https://statistics.fas.harvard.edu" target="_blank">Harvard</a> and <a href="https://www.stat.cmu.edu/~jinglei/index.shtml" target="_blank">Jing Lei</a> at <a href="https://www.cmu.edu/dietrich/statistics-datascience/index.html" target="_blank">CMU</a>. I received my PhD in <a href="https://cam.uchicago.edu" target="_blank">Computational and Applied Mathematics</a> at the University of Chicago in 2026, where I was very fortunate to be advised by <a href="https://rinafb.github.io" target="_blank">Rina Foygel Barber</a>. Prior to that, I completed my B.S. in Mathematics from the University of Chinese Academy of Sciences in 2021.
+      Hi! I am a postdoctoral fellow, co-advised by <a href="https://sites.google.com/view/morganeaustern/home" target="_blank">Morgane Austern</a> at <a href="https://statistics.fas.harvard.edu" target="_blank">Harvard Statistics</a> and <a href="https://www.stat.cmu.edu/~jinglei/index.shtml" target="_blank">Jing Lei</a> at <a href="https://www.cmu.edu/dietrich/statistics-datascience/index.html" target="_blank">CMU Statistics & Data Science</a>. I received my PhD in <a href="https://cam.uchicago.edu" target="_blank">Computational and Applied Mathematics</a> at the University of Chicago in 2026, where I was very fortunate to be advised by <a href="https://rinafb.github.io" target="_blank">Rina Foygel Barber</a>. Prior to that, I completed my B.S. in Mathematics from the University of Chinese Academy of Sciences in 2021.
   </p>
     <p>
       I work on the theory of statistical problems in machine learning, with the goal of understanding uncertainty across diverse settings under minimal and actionable assumptions, and how structural information shapes the limits of learning. My research interests include distribution-free inference, algorithmic stability, ranking and model selection, and efficient data deployment.
@@ -29,7 +29,7 @@ title: Home
 
 # Papers
 - **Rolling conformal prediction in sequential model training** <br>
-  Chen Cheng*, Ruiting Liang*, and Rina Foygel Barber. [arXiv:2609.26951](https://arxiv.org/abs/2609.26951)
+  Chen Cheng\*, Ruiting Liang\*, and Rina Foygel Barber. [arXiv:2609.26951](https://arxiv.org/abs/2609.26951)
 
 - **False positive control in time series coincidence detection** <br>
   Ruiting Liang, Samuel Dyson, Rina Foygel Barber, and Daniel E. Holz. [arXiv:2512.17372](https://arxiv.org/abs/2512.17372)
